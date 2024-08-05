@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>SocketIO Example</title>
+      <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+</head>
+
+<body>
+      <script>
+            const socket = io('http://localhost:8000');
+
+            // Emit the generate_voice event
+            socket.emit('generate_voice', {
+                  chat_id: '1234567890',
+                  language: 'ar',
+                  phone: '1234567890',
+                  text: 'Hello, how are you?'
+            });
+
+            // Listen for the voice_generated event
+            socket.on('voice_generated', function (data) {
+                  console.log('Voice link:', data.voiceLink);
+                  // Do something with the voice link, e.g., play it
+            });
+      </script>
+</body>
+
+</html>
