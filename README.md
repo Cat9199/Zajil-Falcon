@@ -37,7 +37,7 @@ Explore our detailed presentation on the development and impact of Zajil: [Zajil
 Watch our project overview and demonstration:
 
 <video width="320" height="240" controls>
-  <source src="./0805(1)-1.mp" type="video/mp4">
+  <source src="https://storage.googleapis.com/lablab-video-submissions/clxosrgnm00133b6tlf0k5cgc/raw/submission-video-x-clxosrgnm00133b6tlf0k5cgc-clypzd7wo000u356smz2mmy99_vmu630dux.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
