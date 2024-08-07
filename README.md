@@ -56,7 +56,7 @@ We are keen on collaborative growth and warmly welcome contributions:
 
 ## Contact 📧
 For further details, reach out to us at: `pw91994132.office@gmail.com`
-Project Link: [https://github.com/yourgithub/zajil](https://github.com/yourgithub/zajil)
+Project Link: [https://github.com/Cat9199/Zajil-Falcon.git](https://github.com/Cat9199/Zajil-Falcon.git)
 
 ## Acknowledgments 👏
 Special thanks to the Falcon Hackathon organizers, AI71, and all mentors who supported the development of Zajil.
