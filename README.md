@@ -37,7 +37,7 @@ Explore our detailed presentation on the development and impact of Zajil: [Zajil
 Watch our project overview and demonstration:
 
 <video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
+  <source src="./video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
