@@ -31,16 +31,16 @@ To explore or contribute to Zajil:
 3. Start the application: `flask run`
 
 ## Presentation 📄
-Explore our detailed presentation on the development and impact of Zajil: [Zajil Presentation](https://example.com/zajil-presentation)
+Explore our detailed presentation on the development and impact of Zajil: [Zajil Presentation](./Zajil.pdf)
 
 ## Embedded Video 🎥
 Watch our project overview and demonstration:
-```html
+
 <video width="320" height="240" controls>
-  <source src="assets/main.mp4" type="video/mp4">
+  <source src="video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-```
+
 
 ## Falcon Hackathon Participation 🏆
 - **Challenge**: Demonstrating practical AI uses in everyday business processes.
