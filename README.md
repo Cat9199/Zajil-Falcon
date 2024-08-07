@@ -1,6 +1,6 @@
 # Zajil: Revolutionizing Call Center Automation 🚀
 
-![Zajil Project Cover](assets/cover_image.png) <!-- Assuming the image is stored in the assets folder -->
+![Zajil Project Cover](cover.png) <!-- Assuming the image is stored in the assets folder -->
 
 ## Overview 🌐
 **Zajil** significantly enhances call center operations by leveraging advanced AI technologies. Developed during the Falcon Hackathon, Zajil aims to transform traditional customer service into a more efficient, scalable, and cost-effective operation using cutting-edge AI.
